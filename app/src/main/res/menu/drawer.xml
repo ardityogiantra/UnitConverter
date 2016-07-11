@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+            <item
+            android:id="@+id/navigation_item_images"
+            android:icon="@drawable/ic_emoticon"
+            android:title="@string/nav_item_settings" />
+            <item
+            android:id="@+id/navigation_item_location"
+            android:icon="@drawable/ic_emoticon"
+            android:title="@string/nav_item_about" />
+    </group>
+    <item android:title="@string/nav_sub_menu_basic">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_sub_menu_basic01"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_basic01" />
+            <item
+                android:id="@+id/nav_sub_menu_basic02"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_basic02" />
+            <item
+                android:id="@+id/nav_sub_menu_basic03"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_basic03" />
+            <item
+                android:id="@+id/nav_sub_menu_basic04"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_basic04" />
+            <item
+                android:id="@+id/nav_sub_menu_basic05"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_basic05" />
+            <item
+                android:id="@+id/nav_sub_menu_basic06"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_basic06" />
+            <item
+                android:id="@+id/nav_sub_menu_basic07"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_basic07" />
+            <item
+                android:id="@+id/nav_sub_menu_basic08"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_basic08" />
+            <item
+                android:id="@+id/nav_sub_menu_basic09"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_basic09" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/nav_sub_menu_living">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_sub_menu_living01"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_living01" />
+            <item
+                android:id="@+id/nav_sub_menu_living02"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_living02" />
+            <item
+                android:id="@+id/nav_sub_menu_living03"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_living03" />
+            <item
+                android:id="@+id/nav_sub_menu_living04"
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_living04" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/nav_sub_menu_mechanical">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_sub_menu_mechanical01"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_mechanical01" />
+                <item
+                    android:id="@+id/nav_sub_menu_mechanical02"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_mechanical02" />
+                <item
+                    android:id="@+id/nav_sub_menu_mechanical03"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_mechanical03" />
+                <item
+                    android:id="@+id/nav_sub_menu_mechanical04"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_mechanical04" />
+                <item
+                    android:id="@+id/nav_sub_menu_mechanical05"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_mechanical05" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/nav_sub_menu_electrical">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_sub_menu_electrical01"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_electrical01" />
+                <item
+                    android:id="@+id/nav_sub_menu_electrical02"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_electrical02" />
+                <item
+                    android:id="@+id/nav_sub_menu_electrical03"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_electrical03" />
+                <item
+                    android:id="@+id/nav_sub_menu_electrical04"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_electrical04" />
+                <item
+                    android:id="@+id/nav_sub_menu_electrical05"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_electrical05" />
+                <item
+                    android:id="@+id/nav_sub_menu_electrical06"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_electrical06" />
+                <item
+                    android:id="@+id/nav_sub_menu_electrical07"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_electrical07" />
+                <item
+                    android:id="@+id/nav_sub_menu_electrical08"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_electrical08" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/nav_sub_menu_energy">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_sub_menu_energy01"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_enery01" />
+                <item
+                    android:id="@+id/nav_sub_menu_energy02"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_enery02" />
+                <item
+                    android:id="@+id/nav_sub_menu_energy03"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_enery03" />
+                <item
+                    android:id="@+id/nav_sub_menu_energy04"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_enery04" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/nav_sub_menu_chemical">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_sub_menu_chemical01"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_chemical01" />
+                <item
+                    android:id="@+id/nav_sub_menu_chemical02"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_chemical02" />
+                <item
+                    android:id="@+id/nav_sub_menu_chemical03"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_chemical03" />
+                <item
+                    android:id="@+id/nav_sub_menu_chemical04"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_chemical04" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/nav_sub_menu_math">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_sub_menu_math01"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_math01" />
+                <item
+                    android:id="@+id/nav_sub_menu_math02"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_math02" />
+                <item
+                    android:id="@+id/nav_sub_menu_math03"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_math03" />
+                <item
+                    android:id="@+id/nav_sub_menu_math04"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_math04" />
+                <item
+                    android:id="@+id/nav_sub_menu_math05"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_math05" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/nav_sub_menu_photometry">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_sub_menu_photometry01"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_photometry01" />
+                <item
+                    android:id="@+id/nav_sub_menu_photometry02"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_photometry02" />
+                <item
+                    android:id="@+id/nav_sub_menu_photometry03"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_photometry03" />
+                <item
+                    android:id="@+id/nav_sub_menu_photometry04"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_photometry04" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/nav_sub_menu_sound">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_sub_menu_sound01"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_sound01" />
+                <item
+                    android:id="@+id/nav_sub_menu_sound02"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_sound02" />
+                <item
+                    android:id="@+id/nav_sub_menu_sound03"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_sound03" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/nav_sub_menu_radioactivity">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_sub_menu_radioactivity01"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_radioactivity01" />
+                <item
+                    android:id="@+id/nav_sub_menu_radioactivity02"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_radioactivity02" />
+                <item
+                    android:id="@+id/nav_sub_menu_radioactivity03"
+                    android:icon="@drawable/ic_emoticon"
+                    android:title="@string/nav_sub_menu_radioactivity03" />
+            </group>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_item_settings">Settings</string>
+    <string name="nav_item_about">My About</string>
+
+    <string name="nav_sub_menu_basic">Basic</string>
+    <string name="nav_sub_menu_living">Living</string>
+    <string name="nav_sub_menu_mechanical">Mechanical</string>
+    <string name="nav_sub_menu_electrical">Electrical</string>
+    <string name="nav_sub_menu_energy">Energy</string>
+    <string name="nav_sub_menu_chemical">Chemical</string>
+    <string name="nav_sub_menu_math">Math</string>
+    <string name="nav_sub_menu_photometry">Photometry</string>
+    <string name="nav_sub_menu_sound">Sound</string>
+    <string name="nav_sub_menu_radioactivity">Radioactivity</string>
+
+    <string name="nav_sub_menu_basic01">Length / Distance</string>
+    <string name="nav_sub_menu_basic02">Area</string>
+    <string name="nav_sub_menu_basic03">Volume</string>
+    <string name="nav_sub_menu_basic04">Temperature</string>
+    <string name="nav_sub_menu_basic05">Time</string>
+    <string name="nav_sub_menu_basic06">Currency</string>
+    <string name="nav_sub_menu_basic07">Speed</string>
+    <string name="nav_sub_menu_basic08">Weight</string>
+    <string name="nav_sub_menu_basic09">Pressure</string>
+
+    <string name="nav_sub_menu_living01">Clothing</string>
+    <string name="nav_sub_menu_living02">Cooking</string>
+    <string name="nav_sub_menu_living03">Fuel Consumption</string>
+    <string name="nav_sub_menu_living04">Shoe</string>
+
+    <string name="nav_sub_menu_mechanical01">Acceleration</string>
+    <string name="nav_sub_menu_mechanical02">Angular Speed</string>
+    <string name="nav_sub_menu_mechanical03">Flow Rate</string>
+    <string name="nav_sub_menu_mechanical04">Force</string>
+    <string name="nav_sub_menu_mechanical05">Torque</string>
+
+    <string name="nav_sub_menu_electrical01">Capacitance</string>
+    <string name="nav_sub_menu_electrical02">Electric Charge</string>
+    <string name="nav_sub_menu_electrical03">Electric Current</string>
+    <string name="nav_sub_menu_electrical04">Electric Field</string>
+    <string name="nav_sub_menu_electrical05">Electric Potential</string>
+    <string name="nav_sub_menu_electrical06">Frequency</string>
+    <string name="nav_sub_menu_electrical07">Inductance</string>
+    <string name="nav_sub_menu_electrical08">Magnetic Field</string>
+
+    <string name="nav_sub_menu_enery01">Convection Coefficient</string>
+    <string name="nav_sub_menu_enery02">Energy / Work</string>
+    <string name="nav_sub_menu_enery03">Power</string>
+    <string name="nav_sub_menu_enery04">Thermal Conductivity</string>
+
+    <string name="nav_sub_menu_chemical01">Density</string>
+    <string name="nav_sub_menu_chemical02">Dynamic Viscosity</string>
+    <string name="nav_sub_menu_chemical03">Kinematic Viscocity</string>
+    <string name="nav_sub_menu_chemical04">Mineralization</string>
+
+    <string name="nav_sub_menu_math01">Angle</string>
+    <string name="nav_sub_menu_math02">Astronomy Distance</string>
+    <string name="nav_sub_menu_math03">Number Base</string>
+    <string name="nav_sub_menu_math04">Prefix</string>
+    <string name="nav_sub_menu_math05">Units Fraction</string>
+
+    <string name="nav_sub_menu_photometry01">Illuminance</string>
+    <string name="nav_sub_menu_photometry02">Luminance</string>
+    <string name="nav_sub_menu_photometry03">Luminous Flux</string>
+    <string name="nav_sub_menu_photometry04">Luminous Intensity</string>
+
+    <string name="nav_sub_menu_sound01">Intensity</string>
+    <string name="nav_sub_menu_sound02">Perceived Loudness</string>
+    <string name="nav_sub_menu_sound03">Subjective Loudness</string>
+
+    <string name="nav_sub_menu_radioactivity01">Rad. Absorbed Dose</string>
+    <string name="nav_sub_menu_radioactivity02">Rad. Equivalent Dose</string>
+    <string name="nav_sub_menu_radioactivity03">Radioactivity</string>
+
+    <string name="drawer_header_text">Clev Unit Converter</string>
+</resources>
